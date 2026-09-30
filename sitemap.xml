@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mamedli.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mamedli.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mamedli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://mamedli.com/az/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mamedli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mamedli.com/"/>
+  </url>
+  <url>
+    <loc>https://mamedli.com/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mamedli.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mamedli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://mamedli.com/az/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mamedli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mamedli.com/"/>
+  </url>
+  <url>
+    <loc>https://mamedli.com/az/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mamedli.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mamedli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://mamedli.com/az/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mamedli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mamedli.com/"/>
+  </url>
+  <url>
+    <loc>https://mamedli.com/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mamedli.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mamedli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://mamedli.com/az/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mamedli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mamedli.com/"/>
+  </url>
+</urlset>

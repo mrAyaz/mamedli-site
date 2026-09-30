@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "title": "Ayaz Mammadli — Yazılım ve Donanım Mühendisi",
+    "description": "Ayaz Mammadli, Bakü'de yazılım ve donanım mühendisi. İnsansız sistemler için elektronik ve yazılım: uçuş kontrolcüleri, ArduPilot tabanlı otopilotlar, multikopterler, sabit kanatlı platformlar ve VTOL.",
+    "visualAlt": "Soyut illüstrasyon: devre yolları olan uçuş kontrolcüsü kartı ve kuadkopter silueti"
+  },
+  "ui": {
+    "skip": "İçeriğe geç",
+    "home": "Ayaz Mammadli — sayfanın başına",
+    "menu": "Menü",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "language": "Dil",
+    "toDark": "Koyu temaya geç (şu an açık)",
+    "toLight": "Açık temaya geç (şu an koyu)",
+    "backToTop": "Başa dön",
+    "rights": "Tüm hakları saklıdır."
+  },
+  "nav": { "about": "Hakkımda", "skills": "Yetkinlikler", "experience": "Deneyim", "directions": "Alanlar", "education": "Eğitim", "contact": "İletişim" },
+  "hero": {
+    "role": "Yazılım ve Donanım Mühendisi",
+    "lead": "İnsansız sistemler için donanım ve yazılım geliştiriyorum — elektronik ve uçuş kontrolcülerinden kontrol yazılımlarına kadar.",
+    "location": "Bakü, Azerbaycan",
+    "cta": "Benimle iletişime geçin",
+    "cv": "CV'yi indir",
+    "cvNote": "PDF, İngilizce"
+  },
+  "about": {
+    "kicker": "Hakkımda",
+    "title": "Uçan mühendislik.",
+    "paragraphs": [
+      "İnsansız hava araçları üzerinde çalışan bir yazılım ve donanım mühendisiyim. Çalışmalarım tüm zinciri kapsıyor: elektronik ve uçuş kontrolcüleri, gövde tasarımı ve araç üzerinde çalışan yazılımlar.",
+      "ArduPilot tabanlı dronların donanım ve yazılımını geliştiriyor, görev gerektirdiğinde standart dışı yapılar tasarlıyorum: multikopterler, sabit kanatlı araçlar, VTOL platformları ve belirli gereksinimlere göre tasarlanmış uçuş kontrolcüleri. Kendi uçuş fonksiyonlarımı C++ ile yazıyorum ve bu konuda geniş pratik deneyimim var.",
+      "2020'den beri teknik direktör olarak çalışıyorum; öncesinde bir Ar-Ge departmanını yönettim."
+    ],
+    "facts": [
+      { "value": "ArduPilot", "label": "Dronlarımın elektroniği ve yazılımının temeli" },
+      { "value": "C++", "label": "Kendi uçuş fonksiyonlarım, geniş pratik deneyim" },
+      { "value": "3", "label": "Platform türü: multikopter, sabit kanat, VTOL" },
+      { "value": "2", "label": "Lisans derecesi: bilgisayar bilimleri ve havacılık-uzay mühendisliği" }
+    ]
+  },
+  "skills": {
+    "kicker": "Yetkinlikler",
+    "title": "Yetkinlikler.",
+    "groups": [
+      { "icon": "code", "title": "Yazılım geliştirme", "note": "Araç üstü ve masaüstü yazılım", "items": ["C / C++", "Python", "Qt / QML"] },
+      { "icon": "uav", "title": "İnsansız sistemler", "note": "Uçuş yazılımı ve platformlar", "items": ["ArduPilot", "Multikopterler", "Sabit kanatlı platformlar", "VTOL"] },
+      { "icon": "chip", "title": "Elektronik", "note": "Donanım ve uçuş kontrolcüleri", "items": ["Donanım geliştirme", "Uçuş kontrolcüleri", "Altium Designer"] },
+      { "icon": "cube", "title": "Mekanik tasarım", "note": "Gövdeler ve yapılar", "items": ["SolidWorks", "Standart dışı İHA yapıları"] },
+      { "icon": "lead", "title": "Ar-Ge ve yönetim", "note": "Teknik liderlik", "items": ["Teknik liderlik", "Ar-Ge departmanı yönetimi"] },
+      { "icon": "gear", "title": "Mühendislik pratiği", "note": "Problemlere yaklaşım", "items": ["Algoritmalar ve veri yapıları", "Arıza tespiti", "Büyük kod tabanlarında hata ayıklama", "Takım çalışması"] }
+    ]
+  },
+  "experience": {
+    "kicker": "Deneyim",
+    "title": "İş deneyimi.",
+    "present": "halen",
+    "roles": { "td": "Teknik Direktör", "head": "Ar-Ge Departmanı Başkanı", "eng": "Ar-Ge Mühendisi" },
+    "orgs": { "nas": "Ulusal Bilimler Akademisi" }
+  },
+  "directions": {
+    "kicker": "Alanlar",
+    "title": "Geliştirme alanları.",
+    "lead": "Mühendislik çalışmalarımın ana alanları.",
+    "cards": [
+      { "icon": "chip", "title": "Uçuş kontrolcüleri ve otopilotlar", "text": "ArduPilot tabanlı uçuş kontrolcüleri ve otopilotlar için donanım ve yazılım geliştirme.", "tags": ["ArduPilot", "C++", "Altium Designer"] },
+      { "icon": "uav", "title": "İnsansız platformlar", "text": "Göreve göre tasarlanan multikopterler, sabit kanatlı araçlar, VTOL ve standart dışı yapılar.", "tags": ["Multikopter", "Sabit kanat", "VTOL", "SolidWorks"] },
+      { "icon": "swarm", "title": "Drone gösteri sistemleri", "text": "Drone gösterileri için otopilot ve yazılım.", "tags": ["ArduPilot", "C++"] }
+    ]
+  },
+  "education": {
+    "kicker": "Eğitim",
+    "title": "Eğitim.",
+    "items": {
+      "aero": { "degree": "Lisans, Havacılık ve Uzay Mühendisliği", "school": "Ulusal Havacılık Akademisi" },
+      "cs": { "degree": "Lisans, Bilgisayar Bilimleri", "school": "Moskova Devlet Teknik Üniversitesi" }
+    }
+  },
+  "contact": {
+    "kicker": "İletişim",
+    "title": "Projenizi konuşalım.",
+    "lead": "Bana ulaşmanın en hızlı yolu e-posta.",
+    "emailLabel": "E-posta",
+    "locationLabel": "Konum",
+    "write": "E-posta yaz",
+    "copy": "E-postayı kopyala",
+    "copied": "E-posta kopyalandı",
+    "copyFail": "Kopyalanamadı. Adresi seçip elle kopyalayın.",
+    "location": "Bakü, Azerbaycan"
+  }
+}

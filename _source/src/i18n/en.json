@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "title": "Ayaz Mammadli — Software & Hardware Engineer",
+    "description": "Ayaz Mammadli, software and hardware engineer in Baku. Hardware and software for unmanned systems: flight controllers, ArduPilot-based autopilots, multicopters, fixed-wing aircraft and VTOL.",
+    "visualAlt": "Abstract illustration: flight controller board with circuit traces and a quadcopter outline"
+  },
+  "ui": {
+    "skip": "Skip to content",
+    "home": "Ayaz Mammadli — to the top of the page",
+    "menu": "Menu",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "toDark": "Switch to dark theme (current: light)",
+    "toLight": "Switch to light theme (current: dark)",
+    "backToTop": "Back to top",
+    "rights": "All rights reserved."
+  },
+  "nav": { "about": "About", "skills": "Skills", "experience": "Experience", "directions": "Directions", "education": "Education", "contact": "Contact" },
+  "hero": {
+    "role": "Software & Hardware Engineer",
+    "lead": "I develop hardware and software for unmanned systems — from electronics and flight controllers to control software.",
+    "location": "Baku, Azerbaijan",
+    "cta": "Contact me",
+    "cv": "Download CV",
+    "cvNote": "PDF, English"
+  },
+  "about": {
+    "kicker": "About",
+    "title": "Engineering that flies.",
+    "paragraphs": [
+      "I am a software and hardware engineer working on unmanned aerial vehicles. My work covers the whole chain: electronics and flight controllers, airframe design and the software that runs on board.",
+      "I develop drone hardware and software based on ArduPilot and design non-standard structures when a task calls for them — multicopters, fixed-wing aircraft, VTOL platforms and flight controllers built around specific requirements. I write my own flight functions in C++ and have extensive hands-on experience with it.",
+      "Since 2020 I have worked as a technical director; before that I headed an R&D department."
+    ],
+    "facts": [
+      { "value": "ArduPilot", "label": "The basis of my drone hardware and software" },
+      { "value": "C++", "label": "Own flight functions, extensive hands-on practice" },
+      { "value": "3", "label": "Platform types: multicopter, fixed wing, VTOL" },
+      { "value": "2", "label": "Bachelor’s degrees: computer science and aerospace engineering" }
+    ]
+  },
+  "skills": {
+    "kicker": "Skills",
+    "title": "Competencies.",
+    "groups": [
+      { "icon": "code", "title": "Software development", "note": "Onboard and desktop software", "items": ["C / C++", "Python", "Qt / QML"] },
+      { "icon": "uav", "title": "Unmanned systems", "note": "Flight stack and platforms", "items": ["ArduPilot", "Multicopters", "Fixed-wing aircraft", "VTOL"] },
+      { "icon": "chip", "title": "Electronics", "note": "Hardware and flight controllers", "items": ["Hardware development", "Flight controllers", "Altium Designer"] },
+      { "icon": "cube", "title": "Mechanical design", "note": "Airframes and structures", "items": ["SolidWorks", "Non-standard UAV structures"] },
+      { "icon": "lead", "title": "R&D and leadership", "note": "Technical direction", "items": ["Technical leadership", "R&D department management"] },
+      { "icon": "gear", "title": "Engineering practice", "note": "How I approach problems", "items": ["Algorithms and data structures", "Troubleshooting", "Debugging large codebases", "Teamwork"] }
+    ]
+  },
+  "experience": {
+    "kicker": "Experience",
+    "title": "Experience.",
+    "present": "present",
+    "roles": { "td": "Technical Director", "head": "Head of R&D Department", "eng": "R&D Engineer" },
+    "orgs": { "nas": "National Academy of Science" }
+  },
+  "directions": {
+    "kicker": "Directions",
+    "title": "Development areas.",
+    "lead": "The main areas of my engineering work.",
+    "cards": [
+      { "icon": "chip", "title": "Flight controllers and autopilots", "text": "Hardware and software development for flight controllers and autopilots based on ArduPilot.", "tags": ["ArduPilot", "C++", "Altium Designer"] },
+      { "icon": "uav", "title": "Unmanned platforms", "text": "Multicopters, fixed-wing aircraft, VTOL and non-standard structures designed around the task.", "tags": ["Multicopter", "Fixed wing", "VTOL", "SolidWorks"] },
+      { "icon": "swarm", "title": "Drone show systems", "text": "Autopilot and software for drone shows.", "tags": ["ArduPilot", "C++"] }
+    ]
+  },
+  "education": {
+    "kicker": "Education",
+    "title": "Education.",
+    "items": {
+      "aero": { "degree": "Bachelor’s degree in Aerospace Engineering", "school": "National Academy of Aviation" },
+      "cs": { "degree": "Bachelor’s degree in Computer Science", "school": "Moscow State Technical University" }
+    }
+  },
+  "contact": {
+    "kicker": "Contact",
+    "title": "Let’s talk about your project.",
+    "lead": "The fastest way to reach me is by email.",
+    "emailLabel": "Email",
+    "locationLabel": "Location",
+    "write": "Write an email",
+    "copy": "Copy email",
+    "copied": "Email copied",
+    "copyFail": "Couldn’t copy. Select the address and copy it manually.",
+    "location": "Baku, Azerbaijan"
+  }
+}

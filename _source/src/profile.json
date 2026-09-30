@@ -1,0 +1,26 @@
+{
+  "name": "Ayaz Mammadli",
+  "monogram": "AM",
+  "siteUrl": "https://mamedli.com",
+  "email": "mamedli.ayaz@gmail.com",
+  "phone": null,
+  "cv": null,
+  "cvLanguage": "en",
+  "languages": [
+    { "code": "en", "name": "English", "ogLocale": "en_US" },
+    { "code": "ru", "name": "Русский", "ogLocale": "ru_RU" },
+    { "code": "az", "name": "Azərbaycanca", "ogLocale": "az_AZ" },
+    { "code": "tr", "name": "Türkçe", "ogLocale": "tr_TR" }
+  ],
+  "defaultLanguage": "en",
+  "experience": [
+    { "from": 2024, "to": null, "org": "SS Smart", "role": "td" },
+    { "from": 2020, "to": 2024, "org": "RD Smart", "role": "td" },
+    { "from": 2015, "to": 2019, "orgKey": "nas", "role": "head" },
+    { "from": 2013, "to": 2015, "org": "Idrak Teknology Transfer", "role": "eng" }
+  ],
+  "education": [
+    { "from": 2020, "to": 2022, "key": "aero" },
+    { "from": 2008, "to": 2012, "key": "cs" }
+  ]
+}

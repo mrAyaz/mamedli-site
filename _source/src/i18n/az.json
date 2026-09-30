@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "title": "Ayaz Mammadli — proqram və aparat təminatı mühəndisi",
+    "description": "Ayaz Mammadli — Bakıda proqram və aparat təminatı mühəndisi. Pilotsuz sistemlər üçün elektronika və proqram təminatı: uçuş kontrollerləri, ArduPilot əsasında avtopilotlar, multikopterlər, təyyarə tipli platformalar və VTOL.",
+    "visualAlt": "Abstrakt illüstrasiya: elektron izləri olan uçuş kontrolleri lövhəsi və kvadrokopter konturu"
+  },
+  "ui": {
+    "skip": "Məzmuna keç",
+    "home": "Ayaz Mammadli — səhifənin əvvəlinə",
+    "menu": "Menyu",
+    "openMenu": "Menyunu aç",
+    "closeMenu": "Menyunu bağla",
+    "language": "Dil",
+    "toDark": "Qaranlıq temaya keç (hazırda işıqlı)",
+    "toLight": "İşıqlı temaya keç (hazırda qaranlıq)",
+    "backToTop": "Yuxarı",
+    "rights": "Bütün hüquqlar qorunur."
+  },
+  "nav": { "about": "Haqqımda", "skills": "Bacarıqlar", "experience": "Təcrübə", "directions": "İstiqamətlər", "education": "Təhsil", "contact": "Əlaqə" },
+  "hero": {
+    "role": "Proqram və aparat təminatı mühəndisi",
+    "lead": "Pilotsuz sistemlər üçün aparat və proqram təminatı hazırlayıram — elektronika və uçuş kontrollerlərindən idarəetmə proqramlarına qədər.",
+    "location": "Bakı, Azərbaycan",
+    "cta": "Mənimlə əlaqə",
+    "cv": "CV-ni yüklə",
+    "cvNote": "PDF, ingilis dilində"
+  },
+  "about": {
+    "kicker": "Haqqımda",
+    "title": "Uçan mühəndislik.",
+    "paragraphs": [
+      "Mən proqram və aparat təminatı mühəndisiyəm, pilotsuz uçuş aparatları üzərində işləyirəm. İşim bütün zənciri əhatə edir: elektronika və uçuş kontrollerləri, konstruksiyanın layihələndirilməsi və bortda işləyən proqramlar.",
+      "ArduPilot əsasında dronların aparat və proqram təminatını hazırlayıram və tapşırıq tələb etdikdə qeyri-standart konstruksiyalar yaradıram: multikopterlər, təyyarə tipli aparatlar, VTOL platformaları və konkret tələblərə uyğun uçuş kontrollerləri. C++ dilində öz uçuş funksiyalarımı yazıram və bu sahədə geniş praktiki təcrübəm var.",
+      "2020-ci ildən texniki direktor kimi çalışıram, ondan əvvəl elmi-tədqiqat və işləmələr şöbəsinə rəhbərlik etmişəm."
+    ],
+    "facts": [
+      { "value": "ArduPilot", "label": "Dronlarımın elektronikası və proqram təminatının əsası" },
+      { "value": "C++", "label": "Öz uçuş funksiyalarım, geniş praktiki təcrübə" },
+      { "value": "3", "label": "Platforma növü: multikopter, təyyarə, VTOL" },
+      { "value": "2", "label": "Ali təhsil: kompüter elmləri və aerokosmik mühəndislik" }
+    ]
+  },
+  "skills": {
+    "kicker": "Bacarıqlar",
+    "title": "Bacarıqlar.",
+    "groups": [
+      { "icon": "code", "title": "Proqram təminatının hazırlanması", "note": "Bort və masaüstü proqramlar", "items": ["C / C++", "Python", "Qt / QML"] },
+      { "icon": "uav", "title": "Pilotsuz sistemlər", "note": "Uçuş steki və platformalar", "items": ["ArduPilot", "Multikopterlər", "Təyyarə tipli platformalar", "VTOL"] },
+      { "icon": "chip", "title": "Elektronika", "note": "Aparat təminatı və uçuş kontrollerləri", "items": ["Aparat təminatının hazırlanması", "Uçuş kontrollerləri", "Altium Designer"] },
+      { "icon": "cube", "title": "Mexaniki layihələndirmə", "note": "Konstruksiyalar və gövdələr", "items": ["SolidWorks", "Qeyri-standart PUA konstruksiyaları"] },
+      { "icon": "lead", "title": "R&D və rəhbərlik", "note": "Texniki rəhbərlik", "items": ["Texniki rəhbərlik", "R&D şöbəsinə rəhbərlik"] },
+      { "icon": "gear", "title": "Mühəndislik təcrübəsi", "note": "Tapşırıqlara yanaşma", "items": ["Alqoritmlər və verilənlər strukturları", "Nasazlıqların aşkarlanması", "Böyük kod bazalarında sazlama", "Komanda işi"] }
+    ]
+  },
+  "experience": {
+    "kicker": "Təcrübə",
+    "title": "İş təcrübəsi.",
+    "present": "hazırda",
+    "roles": { "td": "Texniki direktor", "head": "R&D şöbəsinin rəhbəri", "eng": "R&D mühəndisi" },
+    "orgs": { "nas": "Milli Elmlər Akademiyası" }
+  },
+  "directions": {
+    "kicker": "İstiqamətlər",
+    "title": "İşləmə istiqamətləri.",
+    "lead": "Mühəndislik işimin əsas sahələri.",
+    "cards": [
+      { "icon": "chip", "title": "Uçuş kontrollerləri və avtopilotlar", "text": "ArduPilot əsasında uçuş kontrollerləri və avtopilotlar üçün aparat və proqram təminatının hazırlanması.", "tags": ["ArduPilot", "C++", "Altium Designer"] },
+      { "icon": "uav", "title": "Pilotsuz platformalar", "text": "Tapşırığa uyğun multikopterlər, təyyarə tipli aparatlar, VTOL və qeyri-standart konstruksiyalar.", "tags": ["Multikopter", "Təyyarə", "VTOL", "SolidWorks"] },
+      { "icon": "swarm", "title": "Dron-şou sistemləri", "text": "Dron-şou üçün avtopilot və proqram təminatı.", "tags": ["ArduPilot", "C++"] }
+    ]
+  },
+  "education": {
+    "kicker": "Təhsil",
+    "title": "Təhsil.",
+    "items": {
+      "aero": { "degree": "Bakalavr, aerokosmik mühəndislik", "school": "Milli Aviasiya Akademiyası" },
+      "cs": { "degree": "Bakalavr, kompüter elmləri", "school": "Moskva Dövlət Texniki Universiteti" }
+    }
+  },
+  "contact": {
+    "kicker": "Əlaqə",
+    "title": "Layihənizi müzakirə edək.",
+    "lead": "Mənimlə ən tez e-poçt vasitəsilə əlaqə saxlamaq olar.",
+    "emailLabel": "E-poçt",
+    "locationLabel": "Şəhər",
+    "write": "Məktub yaz",
+    "copy": "E-poçtu kopyala",
+    "copied": "E-poçt kopyalandı",
+    "copyFail": "Kopyalamaq alınmadı. Ünvanı seçib əl ilə kopyalayın.",
+    "location": "Bakı, Azərbaycan"
+  }
+}

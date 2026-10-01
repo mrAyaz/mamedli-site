@@ -266,7 +266,7 @@ ${profile.languages.filter((l) => l.code !== lang).map((l) => `<meta property="o
   return `<!doctype html>\n<html lang="${lang}">\n<head>\n${headPreview}\n${bootScript}\n${style}\n</head>\n<body>\n${body}\n</body>\n</html>\n`;
 }
 
-// ---------- root redirect (/): saved choice → browser language → English ----------
+// ---------- root redirect (/): always the default language (English) ----------
 function rootPage() {
   const names = profile.languages.map((l) => `<li><a href="/${l.code}/" hreflang="${l.code}" lang="${l.code}">${esc(l.name)}</a></li>`).join('');
   return `<!doctype html>
@@ -280,7 +280,7 @@ function rootPage() {
 ${LANGS.map((c) => `<link rel="alternate" hreflang="${c}" href="${SITE}/${c}/">`).join('\n')}
 <link rel="alternate" hreflang="x-default" href="${SITE}/">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<script>(function(){var L=${JSON.stringify(LANGS)},p=null;try{p=localStorage.getItem('lang')}catch(e){}if(L.indexOf(p)<0){p=null;var n=navigator.languages||[navigator.language||''];for(var i=0;i<n.length&&!p;i++){var c=String(n[i]).slice(0,2).toLowerCase();if(L.indexOf(c)>=0)p=c}}location.replace('/'+(p||'${profile.defaultLanguage}')+'/'+location.hash)})();</script>
+<script>location.replace('/${profile.defaultLanguage}/'+location.hash)</script>
 <noscript><meta http-equiv="refresh" content="0; url=/${profile.defaultLanguage}/"></noscript>
 <style>body{margin:0;font:17px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;background:#F5F5F7;color:#1D1D1F;display:grid;place-items:center;min-height:100vh;padding:16px}@media(prefers-color-scheme:dark){body{background:#0B0B0F;color:#F5F5F7}a{color:#5AA9FF}}a{color:#0066CC}ul{list-style:none;padding:0;display:flex;gap:16px;flex-wrap:wrap;justify-content:center}</style>
 </head>

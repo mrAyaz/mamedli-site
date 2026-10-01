@@ -46,7 +46,7 @@ node build.mjs
   - the transition takes 250 ms.
 - Languages:
   - separate URLs, with `hreflang` and `x-default`;
-  - the root `/` opens the saved language, then the browser's language, then English;
+  - the root `/` always opens English (`/en/`); other languages are chosen from the menu;
   - switching languages keeps both the current section and the theme;
   - language names are shown as text.
 - Mobile menu: closes after you pick an item, on Escape, or on a click outside it; focus returns to the menu button.
